@@ -1,2 +1,3 @@
-# Competitive-Programming
-This repository will store some problems in a topic wise manner
+# Coding
+This repository contains the following branches
+. Competitive Programming
